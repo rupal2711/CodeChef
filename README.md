@@ -15,3 +15,4 @@ Answers and problems
 |7.|[towerofhanoi](https://github.com/dhairya2019/CodeChef/blob/master/towerofhanoi.cpp/)|[dhairya2019](https://github.com/dhairya2019)|
 |8.|[CombinationSum](https://github.com/ananya07105/CodeChef/blob/master/CombinationSum)|[Ananya Sharma](https://github.com/ananya07105)|
 |9.|[SOLBLTY](https://github.com/SidGoyal15555/CodeChef/commit/dca992f0f3b7f0d9887f7fcf0f3a20f693730319)|[SidGoyal15555](https://github.com/SidGoyal15555)|
+|10.|[WWALK](https://github.com/rupal2711/CodeChef/commit/5150227bced406a3507513e054b13342cb2935f6)|[rupal2711](https://github.com/rupal2711)|
